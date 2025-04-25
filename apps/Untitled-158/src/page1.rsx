@@ -17,5 +17,6 @@
   >
     <Text id="text1" value="Release 1" verticalAlign="center" />
     <Text id="text2" value="Release 2" verticalAlign="center" />
+    <Text id="text3" value="Release 3" verticalAlign="center" />
   </Frame>
 </Screen>
