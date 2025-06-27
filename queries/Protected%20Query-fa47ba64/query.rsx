@@ -1,0 +1,31 @@
+<PlaygroundQuery
+  id="Protected Query"
+  adhocResourceType={null}
+  data={null}
+  resourceType="retoolDb"
+>
+  <SqlQuery
+    _additionalScope={[]}
+    actionType=""
+    allowedGroupIds={[]}
+    allowedGroups={[]}
+    bulkUpdatePrimaryKey=""
+    dataArray={[]}
+    doNotThrowOnNoOp={false}
+    editorMode="sql"
+    enableBulkUpdates={false}
+    events={[]}
+    filterBy=""
+    importedQueryDefaults={{}}
+    importedQueryInputs={{}}
+    privateParams={[]}
+    query={include("./lib/Protected Query.sql", "string")}
+    recordId=""
+    records=""
+    showUpdateSetValueDynamicallyToggle={false}
+    tableName=""
+    updateSetValueDynamically={true}
+    warningCodes={[]}
+    watchedParams={[]}
+  />
+</PlaygroundQuery>
