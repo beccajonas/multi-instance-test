@@ -26,6 +26,7 @@ template:
   showFailureToaster: true
   query: |-
     SELECT
+
     {{ startTrigger.data.bigNum }} id,
     {{ startTrigger.data.bigNum.toString() }} id_str
   playgroundQueryUuid: ''
