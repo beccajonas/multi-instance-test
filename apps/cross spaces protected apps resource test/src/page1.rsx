@@ -466,6 +466,6 @@
         />
       </ToolbarButton>
     </Table>
-    <Text id="text1" value="{{ url.href.origin }}" verticalAlign="center" />
+    <Text id="text1" value="{{ urlState.data}}" verticalAlign="center" />
   </Frame>
 </Screen>
