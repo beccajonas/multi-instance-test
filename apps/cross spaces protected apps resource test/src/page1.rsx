@@ -466,6 +466,7 @@
         />
       </ToolbarButton>
     </Table>
+    <Button id="button1" text="Populate table" />
     <Text id="text1" value="{{ urlState.data}}" verticalAlign="center" />
   </Frame>
 </Screen>

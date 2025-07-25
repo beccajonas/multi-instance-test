@@ -1,11 +1,16 @@
 {
+  "button1": {
+    "row": 9,
+    "height": 1,
+    "width": 2
+  },
   "table1": {
     "row": 1,
     "height": 8,
     "width": 8
   },
   "text1": {
-    "row": 9.6,
+    "row": 10,
     "height": 1,
     "width": 1
   }
