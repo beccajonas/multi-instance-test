@@ -1,0 +1,25 @@
+<Screen
+  id="page1"
+  _customShortcuts={[]}
+  _hashParams={[]}
+  _searchParams={[]}
+  browserTitle=""
+  title="Page 1"
+  urlSlug=""
+>
+  <Frame
+    id="$main"
+    enableFullBleed={false}
+    isHiddenOnDesktop={false}
+    isHiddenOnMobile={false}
+    padding="8px 12px"
+    type="main"
+  >
+    <DynamicWidget_SourceControlTestLibrary_HelloWorld
+      id="helloWorld1"
+      collectionUuid="52819e0f-c6a0-49d1-9989-68b7dfb1ddd4"
+      heightType="fixed"
+      name={null}
+    />
+  </Frame>
+</Screen>
