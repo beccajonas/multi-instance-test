@@ -21,5 +21,11 @@
       heightType="fixed"
       name={null}
     />
+    <DynamicWidget_SourceControlTestLibrary_HelloWorld
+      id="helloWorld2"
+      collectionUuid="52819e0f-c6a0-49d1-9989-68b7dfb1ddd4"
+      heightType="fixed"
+      name={null}
+    />
   </Frame>
 </Screen>
