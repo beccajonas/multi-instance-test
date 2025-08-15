@@ -1,9 +1,9 @@
 {
   "type": "postgresql",
-  "host": "postgres",
+  "host": "jonasbecca-postgresql",
   "port": "5432",
   "databaseName": "hammerhead_production",
-  "databaseUsername": "retool_internal_user",
+  "databaseUsername": "retool",
   "databasePassword": "",
   "description": null,
   "outboundRegion": null,
