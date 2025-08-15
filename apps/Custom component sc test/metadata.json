@@ -1,0 +1,21 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "231ee4e0-79e2-11f0-9772-7b709c8da3ec",
+  "appTemplate": {
+    "customComponentCollections": {
+      "array": [
+        {
+          "object": {
+            "collectionName": "SourceControlTestLibrary",
+            "collectionRevisionUuid": "6b4fe5ec-86da-4040-8042-944e9c3df0ba",
+            "collectionUuid": "52819e0f-c6a0-49d1-9989-68b7dfb1ddd4"
+          }
+        }
+      ]
+    },
+    "rootScreen": "page1",
+    "version": "3.196.2",
+    "experimentalDataTabEnabled": true
+  }
+}
