@@ -1,0 +1,21 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "c5922d10-8282-11f0-8dd2-ebc3beda8792",
+  "appTemplate": {
+    "customComponentCollections": {
+      "array": [
+        {
+          "object": {
+            "collectionName": "MyLibrary",
+            "collectionRevisionUuid": "a405ee57-8a63-4322-944b-06cb3ea657f8",
+            "collectionUuid": "3cf9de21-5cd5-4610-a50f-d8c4b35e20c1"
+          }
+        }
+      ]
+    },
+    "rootScreen": "page1",
+    "version": "3.196.15",
+    "experimentalDataTabEnabled": true
+  }
+}
