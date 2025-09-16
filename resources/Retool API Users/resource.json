@@ -12,7 +12,7 @@
   "options": {
     "spec": "https://retoolbeccatest.retool.com/api/v2/spec",
     "api_key": "",
-    "bearer_token": "",
+    "bearer_token": "{{ environment.variables._retoolAPI }}",
     "oauth2_scope": "",
     "customHeaders": [["", ""]],
     "authentication": "bearer",
