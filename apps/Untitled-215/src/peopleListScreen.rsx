@@ -42,4 +42,5 @@
     />
   </CollectionView>
   <Button id="button1" size="large" text="Button" />
+  <Fab id="fab1" icon="bold/interface-add-1" />
 </Screen>

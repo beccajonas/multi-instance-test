@@ -4,5 +4,10 @@
     "height": 0,
     "width": 0
   },
-  "collectionView1": {}
+  "collectionView1": {},
+  "fab1": {
+    "type": "stack",
+    "height": 0,
+    "width": 0
+  }
 }
