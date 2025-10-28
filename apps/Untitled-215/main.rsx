@@ -12,5 +12,6 @@
       },
       { screen: "myProfileScreen", icon: "bold/interface-user-single" },
     ]}
+    uuid="679d08bf-be50-4805-8a20-a275943e0d0c"
   />
 </MobileApp>
