@@ -43,4 +43,11 @@
   </CollectionView>
   <Button id="button1" size="large" text="Button" />
   <Fab id="fab1" icon="bold/interface-add-1" />
+  <Text
+    id="text2"
+    markdown={true}
+    size="medium"
+    value="👋 Hello {{ current_user.firstName || 'friend' }}!"
+    weight="normal"
+  />
 </Screen>
