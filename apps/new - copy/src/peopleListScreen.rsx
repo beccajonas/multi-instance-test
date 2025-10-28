@@ -87,4 +87,5 @@
       />
     </Container>
   </Container>
+  <Button id="button1" size="large" text="Button" />
 </Screen>
