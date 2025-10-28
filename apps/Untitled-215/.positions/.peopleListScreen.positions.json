@@ -1,3 +1,8 @@
 {
+  "button1": {
+    "type": "stack",
+    "height": 0,
+    "width": 0
+  },
   "collectionView1": {}
 }

@@ -41,4 +41,5 @@
       type="state"
     />
   </CollectionView>
+  <Button id="button1" size="large" text="Button" />
 </Screen>
