@@ -3,5 +3,3 @@ name: new
 apps:
   - uuid: 60b24634-b110-11f0-9087-af5f4f5c0f90
     release: 1.0.0
-  - uuid: 9c8e2756-b433-11f0-89c7-ffca26a519ab
-    release: 1.0.0
