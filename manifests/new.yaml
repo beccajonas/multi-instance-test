@@ -5,5 +5,7 @@ apps:
     release: latest
   - uuid: 60b24634-b110-11f0-9087-af5f4f5c0f90
     release: 1.0.0
+  - uuid: 639c126a-b8f6-11f0-bfe6-03ee3e26a895
+    release: 2.0.0
   - uuid: b372f3bc-b450-11f0-9ed1-b7a400795c51
     release: latest
