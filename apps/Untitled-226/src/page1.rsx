@@ -22,5 +22,6 @@
       verticalAlign="center"
     />
     <Text id="text2" value="new addition" verticalAlign="center" />
+    <Text id="text3" value="new!" verticalAlign="center" />
   </Frame>
 </Screen>
