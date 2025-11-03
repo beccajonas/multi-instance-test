@@ -21,5 +21,6 @@
       value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
       verticalAlign="center"
     />
+    <Text id="text2" value="new addition" verticalAlign="center" />
   </Frame>
 </Screen>
