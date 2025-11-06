@@ -1,12 +1,6 @@
 {
-  "button1": {
-    "row": 9,
-    "height": 1,
-    "width": 2
-  },
-  "table1": {
-    "row": 0.4,
-    "height": 8,
+  "tablemodule1": {
+    "height": 0.2,
     "width": 8
   }
 }
