@@ -2,5 +2,9 @@
   "tablemodule1": {
     "height": 0.2,
     "width": 8
+  },
+  "text1": {
+    "row": 0.2,
+    "height": 1
   }
 }
