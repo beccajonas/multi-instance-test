@@ -1,6 +1,8 @@
 version: 1.0.0
 name: new
 apps:
+  - uuid: 4492ab62-bb1d-11f0-ba61-eb4ead23902e
+    release: latest
   - uuid: 5a86baa4-b360-11f0-9b56-1b25900fef4a
     release: latest
   - uuid: 60b24634-b110-11f0-9087-af5f4f5c0f90
