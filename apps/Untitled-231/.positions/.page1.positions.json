@@ -3,5 +3,9 @@
     "row": 0.4,
     "height": 8,
     "width": 8
+  },
+  "text1": {
+    "row": 9.2,
+    "height": 1
   }
 }
