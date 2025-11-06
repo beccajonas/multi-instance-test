@@ -23,5 +23,6 @@
       overflowType="hidden"
       pageUuid="e78fa3ce-bb22-11f0-a908-e3acc62a0483"
     />
+    <Text id="text1" value="# My module ^" verticalAlign="center" />
   </Frame>
 </Screen>
