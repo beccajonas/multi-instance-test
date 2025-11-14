@@ -2,6 +2,7 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
@@ -217,5 +218,11 @@
         />
       </ToolbarButton>
     </Table>
+    <Image
+      id="image1"
+      heightType="fixed"
+      horizontalAlign="center"
+      src="https://picsum.photos/id/1025/800/600"
+    />
   </Frame>
 </Screen>
