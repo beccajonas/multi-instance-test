@@ -13,6 +13,7 @@
     "baseURL": "https://webhook.site/05e24738-fca0-444e-bda9-a60fd39c5964",
     "headers": [["userDataFromConfig", "%USER_OAUTH2_ACCESS_TOKEN%"]],
     "urlparams": [],
+    "oauth2_flow": "authorization_code",
     "auth0_domain": "",
     "bearer_token": "",
     "oauth2_scope": "",
@@ -38,10 +39,19 @@
     "oauth2_client_secret": "",
     "oauth2_refresh_token": "",
     "auth0_custom_audience": "",
+    "verify_session_action": {
+      "type": "http_request",
+      "query": "https://httpbin.org/status/400",
+      "method": "GET",
+      "bodyType": "none",
+      "runWhenModelUpdates": false
+    },
     "oauth1_consumer_secret": "",
     "oauth1_realm_parameter": "",
     "oauth1_signature_method": "HMAC-SHA1",
     "oauth2_access_token_url": "",
+    "oauth2_share_user_credentials": false,
+    "verify_session_action_enabled": true,
     "digest_server_auth_header_response": ""
   },
   "environment": "production",
