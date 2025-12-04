@@ -1,0 +1,11 @@
+<GlobalFunctions>
+  <RESTQuery
+    id="query1"
+    bodyType="json"
+    headers={'[{"key":"","value":""},{"key":"","value":""}]'}
+    resourceDisplayName="https://webhook.site/d2edeec9-b81a-4cc1-bcba-10ee96cca072"
+    resourceName="90c92806-783f-4fbf-98a8-8dd98cf2e832"
+    runWhenModelUpdates={false}
+    type="POST"
+  />
+</GlobalFunctions>
