@@ -1,0 +1,13 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "557666ec-d6a9-11f0-a029-17501f43f995",
+  "appTemplate": {
+    "appThemeId": 175885,
+    "appThemeModeId": "cd15600e",
+    "rootScreen": "page1",
+    "shortlink": "casemanager",
+    "version": "3.319.0",
+    "experimentalDataTabEnabled": true
+  }
+}
