@@ -107,6 +107,7 @@
       cellTooltipMode="overflow"
       format="multilineString"
       groupAggregationMode="none"
+      hidden="true"
       key="text"
       label="Bio"
       position="center"
